@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @JesusTapia-dev
-- 👀 I’m interested in electronic and robotics
-- 🌱 I’m currently learning IoT
-- 💞️ I’m looking to collaborate on i
+# Hi, my name is Jesus Tapia 👋
+### Data Science
+I'm an engineer physics apassionate for technology  
+- 👀 I’m interested in electronic and robotics especially if it's related to space applications.
+- 🌱 I’m currently learning Embebbed systems. 
 - 📫 How to reach me jtapiag@uni.pe
 
 <!---
