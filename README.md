@@ -1,8 +1,8 @@
 # Hi, my name is Jesus Tapia 👋
 ### Data Science
 I'm an engineer physics apassionate for technology  
-- 👀 I’m interested in electronic and robotics especially if it's related to space applications.
-- 🌱 I’m currently learning Embebbed systems. 
+- 👀 I’m interested in electronic and data procesing especially if it's related to space applications.
+- 🌱 I’m currently learning Embebbed systems and data driven science.
 - 📫 How to reach me jtapiag@uni.pe
 
 <!---
